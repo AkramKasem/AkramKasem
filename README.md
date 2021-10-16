@@ -2,11 +2,9 @@
 
 ![]([![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231A10CA&size=21&center=true&lines=I'm+a+FullStack+Web++Developer;and+Desktop+application+;and+Mobile+application+;Java+Software+Engineer)](https://git.io/typing-svg))
 
-<img align='right' src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e476p9uet94nteqxti8tujofi58t5wcz4ng63939qfr&rid=giphy.gif&ct=g" width="230">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkramKasem&label=Visitors&color=blue&style=plastic" alt="Akram Kasem" /> </p>
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with me 

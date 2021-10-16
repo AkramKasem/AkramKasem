@@ -6,6 +6,12 @@
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkramKasem&label=Visitors&color=blue&style=plastic" alt="Akram Kasem" /> </p>
+
+
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with me 
+
+
 [<img align="left" alt="Akram Kasem" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
 [<img align="left" alt="Akram Kasem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Akram Kasem  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

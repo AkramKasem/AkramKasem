@@ -10,6 +10,7 @@
 [<img align="left" alt="Akram Kasem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Akram Kasem  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br>
 
 ## Interesting Facts !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -147,7 +148,6 @@
 
 </div>
 
-<img align='center'  height="60" alt="Thanks" width="100%" src="/assets/Thanks.svg"/> 
 
 [website1]: https://github.com/AkramKasem/AkramKasem/blob/main/Akram%20Kasem%20Ahmed%20Dawood%20CV.pdf
 [website]: https://github.com/AkramKasem

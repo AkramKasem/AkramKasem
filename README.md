@@ -1,6 +1,6 @@
 ## Hi there, I'm Akram Kasem Ahmed 👋👋
 
-([![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231A10CA&size=21&center=true&lines=I'm+a+FullStack+Web++Developer;and+Desktop+application+;and+Mobile+application+;Java+Software+Engineer)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231A10CA&size=21&center=true&lines=I'm+a+FullStack+Web++Developer;and+Desktop+application+;and+Mobile+application+;Java+Software+Engineer)](https://git.io/typing-svg)
 
 
 

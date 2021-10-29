@@ -26,10 +26,6 @@
 - 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Contribute more, learn and Create more !!
 
-[![GitHub Akram Kasem](https://img.shields.io/github/followers/gowthamrajk?label=follow&style=social)](https://github.com/AkramKasem)
-[![](https://img.shields.io/badge/LinkedIn-E4405F?style=social&logo=linkedin&label=Connect&logoColor=blue)](https://www.linkedin.com/in/akram-kasem-ahmed-dawood-87749b195/)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?style=social&label=Subscribe)](https://www.youtube.com/channel/UC4hukFcYk1c7Rhc-OKCrlxA)
-
 
 <br>
 

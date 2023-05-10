@@ -21,7 +21,7 @@
 - 🔭 I love Problem Solving ans Application Development !!!
 - 🚀 **visit my CV @ [Akram Kasem](https://github.com/AkramKasem/AkramKasem/blob/main/Akram%20Kasem%20Ahmed%20Dawood%20CV.pdf)**
 - 📝 **visit my Certificates @ [Akram Kasem](https://github.com/AkramKasem/Certificates)**
-- 🌱 currently Playing with Web Dev 🤣
+- 🌱 currently Playing with Web Dev 
 - 📫 How to reach me: [akramkasem103@gmail.com](mailto:akramkasem103@gmail.com)
 - 🤔 I’m looking to collaborate on Full stack web development
 - 😄 Pronouns: He/Him

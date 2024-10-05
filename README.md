@@ -9,7 +9,7 @@
   
 - 📫 How to reach me: [akramkasem103@gmail.com](mailto:akramkasem103@gmail.com)
 
-- 📄 Know about my experiences [CV]([https://stock.qvm.parts/](https://github.com/AkramKasem/AkramKasem/blob/main/Akram%20Kasem%20Ahmed%20(%20Mid-Level%20Java%20%20Software%20Engineer%20(3%20Year%20Experience)%20).pdf))
+- 📄 Know about my experiences [CV](https://github.com/AkramKasem/AkramKasem/blob/main/Akram%20Kasem%20Ahmed%20(%20Mid-Level%20Java%20%20Software%20Engineer%20(3%20Year%20Experience)%20).pdf)
 
 - 🌱 I’m currently learning **DEV OPS**
 
